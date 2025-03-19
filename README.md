@@ -1,4 +1,4 @@
-# bluetooth_thermal_printer
+ bluetooth_thermal_printer ext.kotlin_version = '1.7.10'
 
 [![Pub Version](https://img.shields.io/pub/v/bluetooth_thermal_printer)](https://pub.dev/packages/bluetooth_thermal_printer)
 
